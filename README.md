@@ -2,7 +2,7 @@
 
 # 123-JavaScript-Interview-Questions
 
-This book's goal is to help javascript frontend developers prepare for technical job interviews through a collection of carefully compiled questions.
+This book's goal is to help javascript frontend developers prepare for technical job interviews through a collection of carefully compiled questions. **Good-Luck**
 
 ## Want to buy a book in paper form? Want some badass flashcards?
 
